@@ -1,0 +1,19 @@
+{
+  "name": "raid-attendance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "date-fns": "^2.17.0",
+    "dotenv": "^8.2.0",
+    "graphql-request": "^3.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
